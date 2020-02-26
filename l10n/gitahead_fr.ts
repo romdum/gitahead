@@ -315,7 +315,7 @@
     <message>
         <location filename="../src/app/Application.cpp" line="395"/>
         <source>SSL Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreurs SSL</translation>
     </message>
     <message>
         <location filename="../src/app/Application.cpp" line="397"/>
@@ -328,7 +328,7 @@
     <message>
         <location filename="../src/host/Beanstalk.cpp" line="45"/>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Echec de la connexion</translation>
     </message>
 </context>
 <context>
@@ -336,7 +336,7 @@
     <message>
         <location filename="../src/host/Bitbucket.cpp" line="40"/>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Echec de la connexion</translation>
     </message>
 </context>
 <context>
@@ -344,7 +344,7 @@
     <message>
         <location filename="../src/ui/BlameEditor.cpp" line="107"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Sans titre</translation>
     </message>
     <message>
         <location filename="../src/ui/BlameEditor.cpp" line="123"/>
@@ -354,7 +354,7 @@
     <message>
         <location filename="../src/ui/BlameEditor.cpp" line="144"/>
         <source>HEAD</source>
-        <translation type="unfinished"></translation>
+        <translation>HEAD</translation>
     </message>
     <message>
         <location filename="../src/ui/BlameEditor.cpp" line="148"/>
@@ -377,7 +377,7 @@
     <message>
         <location filename="../src/ui/BlameMargin.cpp" line="379"/>
         <source>Invalid Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Signature invalide</translation>
     </message>
 </context>
 <context>
@@ -429,32 +429,32 @@
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="328"/>
         <source>Initialize Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialiser le dépôt</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="328"/>
         <source>Clone Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloner le dépôt</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="367"/>
         <source>Initialized empty repository into &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialiser le dépôt vide dans &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="368"/>
         <source>Cloned repository from &apos;%1&apos; into &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Dépôt cloné de &apos;%1&apos; dans &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="374"/>
         <source>Initialize</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialiser</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="374"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloner</translation>
     </message>
 </context>
 <context>
@@ -462,33 +462,33 @@
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="234"/>
         <source>Clone Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Progression</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="235"/>
         <source>The new repository will open after the clone finishes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nouveau dépôt sera ouvert lorsque le clone sera terminé.</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="256"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloner</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="265"/>
         <location filename="../src/dialogs/CloneDialog.cpp" line="267"/>
         <source>clone</source>
-        <translation type="unfinished"></translation>
+        <translation>cloner</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="265"/>
         <source>Clone canceled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clone annulé.</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="309"/>
         <source>Failed to %1 into &apos;%2&apos; - %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de %1 dans &apos;%2&apos; - %3</translation>
     </message>
 </context>
 <context>
@@ -496,7 +496,7 @@
     <message>
         <location filename="../src/ui/DetailView.cpp" line="213"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <location filename="../src/ui/DetailView.cpp" line="355"/>
@@ -506,12 +506,12 @@
     <message>
         <location filename="../src/ui/DetailView.cpp" line="372"/>
         <source>Id:</source>
-        <translation type="unfinished"></translation>
+        <translation>Id :</translation>
     </message>
     <message>
         <location filename="../src/ui/DetailView.cpp" line="384"/>
         <source>initial commit</source>
-        <translation type="unfinished"></translation>
+        <translation>commit initial</translation>
     </message>
 </context>
 <context>
@@ -569,12 +569,12 @@
     <message>
         <location filename="../src/ui/DetailView.cpp" line="465"/>
         <source>&lt;b&gt;Commit Message:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Message du commit :&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../src/ui/DetailView.cpp" line="502"/>
         <source>Stage All</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/DetailView.cpp" line="506"/>
