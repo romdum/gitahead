@@ -953,12 +953,12 @@
     <message>
         <location filename="../src/dialogs/DeleteTagDialog.cpp" line="27"/>
         <source>Are you sure you want to delete tag &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Etes-vous sur de vouloir supprimer le tag &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DeleteTagDialog.cpp" line="28"/>
         <source>Delete Tag?</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le tag?</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DeleteTagDialog.cpp" line="35"/>
@@ -968,37 +968,37 @@
     <message>
         <location filename="../src/dialogs/DeleteTagDialog.cpp" line="39"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DeleteTagDialog.cpp" line="48"/>
         <source>delete &apos;%1&apos; from &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>supprimer &apos;%1&apos; from &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DeleteTagDialog.cpp" line="49"/>
         <source>Push</source>
-        <translation type="unfinished"></translation>
+        <translation>Pousser</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DeleteTagDialog.cpp" line="66"/>
         <source>Push canceled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poussage annulé.</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DeleteTagDialog.cpp" line="69"/>
         <source>Unable to push to %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de pousser de %1 - %2</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DeleteTagDialog.cpp" line="78"/>
         <source>Delete Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le Tag</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DeleteTagDialog.cpp" line="79"/>
         <source>delete tag</source>
-        <translation type="unfinished"></translation>
+        <translation>supprimer le tag</translation>
     </message>
 </context>
 <context>
@@ -1006,12 +1006,12 @@
     <message>
         <location filename="../src/dialogs/DiffPanel.cpp" line="31"/>
         <source>lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DiffPanel.cpp" line="49"/>
         <source>System Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Système local</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DiffPanel.cpp" line="73"/>
@@ -1021,27 +1021,27 @@
     <message>
         <location filename="../src/dialogs/DiffPanel.cpp" line="74"/>
         <source>Character Encoding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Encodage de caractère :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DiffPanel.cpp" line="83"/>
         <source>Ignore Whitespace (-w)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorer les espaces (-w)</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DiffPanel.cpp" line="91"/>
         <source>Added files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers ajoutés</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DiffPanel.cpp" line="97"/>
         <source>Deleted files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers supprimés</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DiffPanel.cpp" line="103"/>
         <source>Whitespace:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espace :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/DiffPanel.cpp" line="104"/>
@@ -1054,7 +1054,7 @@
     <message>
         <location filename="../src/tools/DiffTool.cpp" line="36"/>
         <source>External Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>Différence externe</translation>
     </message>
 </context>
 <context>
@@ -1062,12 +1062,12 @@
     <message>
         <location filename="../src/ui/DiffView.cpp" line="2111"/>
         <source>Add new file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un nouveau fichier</translation>
     </message>
     <message>
         <location filename="../src/ui/DiffView.cpp" line="2125"/>
         <source>Or drag files here to copy into the repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Ou déposer un fichier ici pour copier dans le dépôt</translation>
     </message>
 </context>
 <context>
@@ -1075,22 +1075,22 @@
     <message>
         <location filename="../src/update/DownloadDialog.cpp" line="27"/>
         <source>Update %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour %1</translation>
     </message>
     <message>
         <location filename="../src/update/DownloadDialog.cpp" line="36"/>
         <source>Downloading %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement %1...</translation>
     </message>
     <message>
         <location filename="../src/update/DownloadDialog.cpp" line="64"/>
         <source>Download Complete!</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement terminé!</translation>
     </message>
     <message>
         <location filename="../src/update/DownloadDialog.cpp" line="66"/>
         <source>Install and Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer et redémarrer</translation>
     </message>
 </context>
 <context>
@@ -1098,7 +1098,7 @@
     <message>
         <location filename="../src/tools/EditTool.cpp" line="33"/>
         <source>Edit in External Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editer dans un éditeur externe</translation>
     </message>
 </context>
 <context>
@@ -1106,12 +1106,12 @@
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="544"/>
         <source>Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabulations</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="545"/>
         <source>Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaces</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="566"/>
@@ -1121,22 +1121,22 @@
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="575"/>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Police :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="576"/>
         <source>Font size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de la police :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="577"/>
         <source>Indent using:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indenter avec :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="578"/>
         <source>Indent width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Largeur d'indentation</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="579"/>
@@ -1154,12 +1154,12 @@
     <message>
         <location filename="../src/ui/EditorWindow.cpp" line="98"/>
         <source>&apos;%1&apos; has been modified. Do you want to save your changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; has été modifié. Voulez-vous sauvegarder vos modifications?</translation>
     </message>
     <message>
         <location filename="../src/ui/EditorWindow.cpp" line="100"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarder les modifications?</translation>
     </message>
 </context>
 <context>
@@ -1167,17 +1167,17 @@
     <message>
         <location filename="../src/dialogs/ExternalToolsDialog.cpp" line="25"/>
         <source>Configure External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurer les outils externe</translation>
     </message>
     <message>
         <location filename="../src/dialogs/ExternalToolsDialog.cpp" line="43"/>
         <source>Detected Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Outils détectés</translation>
     </message>
     <message>
         <location filename="../src/dialogs/ExternalToolsDialog.cpp" line="68"/>
         <source>User Defined Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Outils défini par l'utilisateur</translation>
     </message>
     <message>
         <location filename="../src/dialogs/ExternalToolsDialog.cpp" line="87"/>
@@ -1190,17 +1190,17 @@
     <message>
         <location filename="../src/dialogs/ExternalToolsModel.cpp" line="63"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="../src/dialogs/ExternalToolsModel.cpp" line="64"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Commande</translation>
     </message>
     <message>
         <location filename="../src/dialogs/ExternalToolsModel.cpp" line="65"/>
         <source>Arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>Arguments</translation>
     </message>
 </context>
 <context>
@@ -1208,27 +1208,27 @@
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="31"/>
         <source>Revision Not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Révision non trouvée</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="32"/>
         <source>The selected file doesn&apos;t have a %1 revision.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier sélectionné n&apos;a pas de revision %1</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="87"/>
         <source>Bash Not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Bash non trouvé</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="88"/>
         <source>Bash was not found on your PATH.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bash n&apos;a pas été trouvé dans votre PATH.</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="90"/>
         <source>Bash is required to execute external tools.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bash est nécessaire pour exécuter les outils externes.</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="109"/>
@@ -1244,47 +1244,47 @@
         <location filename="../src/ui/FileContextMenu.cpp" line="174"/>
         <location filename="../src/ui/FileContextMenu.cpp" line="183"/>
         <source>Discard Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler les modifications</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="176"/>
         <source>Discard Changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler les modifications?</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="177"/>
         <source>Are you sure you want to discard changes in the selected files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Etes-vous sur de vouloir annuler les modifications du fichier sélectionné?</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="180"/>
         <source>This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette action ne peut pas être annulé.</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="189"/>
         <source>%1 files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers %1</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="190"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="191"/>
         <source>discard</source>
-        <translation type="unfinished"></translation>
+        <translation>annuler</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="201"/>
         <source>Remove Untracked Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les fichiers non suivis</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="209"/>
         <source>Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorer</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="231"/>
@@ -1294,12 +1294,12 @@
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="259"/>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>Débloquer</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="259"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquer</translation>
     </message>
     <message>
         <location filename="../src/ui/FileContextMenu.cpp" line="274"/>
