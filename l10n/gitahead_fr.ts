@@ -3234,22 +3234,22 @@ Examples
     <message>
         <location filename="../src/ui/RepoView.cpp" line="176"/>
         <source>Indexing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexation...</translation>
     </message>
     <message>
         <location filename="../src/ui/RepoView.cpp" line="182"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher</translation>
     </message>
     <message>
         <location filename="../src/ui/RepoView.cpp" line="185"/>
         <source>The indexer worker process crashed. If this problem persists please contact us at support@gitahead.com.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'indexation a échoué. Si le problème persiste, merci de nous contacter à support@gitahead.com.</translation>
     </message>
     <message>
         <location filename="../src/ui/RepoView.cpp" line="187"/>
         <source>Indexer Crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>L'indexation a échoué</translation>
     </message>
     <message>
         <location filename="../src/ui/RepoView.cpp" line="311"/>
@@ -3269,7 +3269,7 @@ Examples
     <message>
         <location filename="../src/ui/RepoView.cpp" line="314"/>
         <source>more than 100</source>
-        <translation type="unfinished"></translation>
+        <translation>plus de 100</translation>
     </message>
     <message>
         <location filename="../src/ui/RepoView.cpp" line="319"/>
@@ -4108,12 +4108,12 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/git/Repository.cpp" line="1064"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur inconnu</translation>
     </message>
     <message>
         <location filename="../src/git/Repository.cpp" line="1147"/>
         <source>git-lfs not found</source>
-        <translation type="unfinished"></translation>
+        <translation>git-lfs non trouvé</translation>
     </message>
 </context>
 <context>
@@ -4121,7 +4121,7 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/ui/SearchField.cpp" line="108"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher</translation>
     </message>
 </context>
 <context>
@@ -4129,22 +4129,22 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/ConfigDialog.cpp" line="400"/>
         <source>Enable indexing</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer l'indexation</translation>
     </message>
     <message>
         <location filename="../src/dialogs/ConfigDialog.cpp" line="415"/>
         <source>terms</source>
-        <translation type="unfinished"></translation>
+        <translation>termes</translation>
     </message>
     <message>
         <location filename="../src/dialogs/ConfigDialog.cpp" line="431"/>
         <source>lines</source>
-        <translation type="unfinished"></translation>
+        <translation>lignes</translation>
     </message>
     <message>
         <location filename="../src/dialogs/ConfigDialog.cpp" line="445"/>
         <source>Limit commits to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Limiter les commits à :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/ConfigDialog.cpp" line="446"/>
@@ -4154,7 +4154,7 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/ConfigDialog.cpp" line="463"/>
         <source>Remove Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer l'index</translation>
     </message>
 </context>
 <context>
@@ -4162,22 +4162,22 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/conf/Settings.cpp" line="202"/>
         <source>Prompt to edit stash message before stashing</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le message de stash avant le stash</translation>
     </message>
     <message>
         <location filename="../src/conf/Settings.cpp" line="205"/>
         <source>Prompt to edit commit message before merging</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le message de commit avant le merge</translation>
     </message>
     <message>
         <location filename="../src/conf/Settings.cpp" line="208"/>
         <source>Prompt to edit commit message before reverting</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le message de commit avant le revert</translation>
     </message>
     <message>
         <location filename="../src/conf/Settings.cpp" line="211"/>
         <source>Prompt to edit commit message before cherry-picking</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le message de commit avant le cherry-pick</translation>
     </message>
 </context>
 <context>
@@ -4185,7 +4185,7 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="694"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Echap</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="709"/>
@@ -4195,47 +4195,47 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="728"/>
         <source>Edit Config File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editer le fichier de config...</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="756"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Général</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="764"/>
         <source>Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="772"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Outils</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="782"/>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenêtre</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="790"/>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editeur</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="798"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="806"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="815"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminal</translation>
     </message>
 </context>
 <context>
@@ -4243,7 +4243,7 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/tools/ShowTool.cpp" line="37"/>
         <source>Show in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher dans %1</translation>
     </message>
 </context>
 <context>
@@ -4251,44 +4251,44 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="688"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="690"/>
         <location filename="../src/ui/SideBar.cpp" line="794"/>
         <location filename="../src/ui/SideBar.cpp" line="889"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="695"/>
         <source>Authorize</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="709"/>
         <source>Clone Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloner le dépôt</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="720"/>
         <source>Open Existing Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir les dépôt existant</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="724"/>
         <source>Open Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le dépôt</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="734"/>
         <source>Initialize New Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialiser un nouveau dépôt</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="749"/>
         <source>Add %1 Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un compte %1</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="784"/>
@@ -4298,17 +4298,17 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="789"/>
         <source>Remove Repository Association?</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer l'association des dépôts?</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="813"/>
         <source>Clear All Recent</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer tous les dépôts récents</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="818"/>
         <source>Show Full Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le chemin complet</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="828"/>
@@ -4318,12 +4318,12 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="837"/>
         <source>Refresh Remote Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Rafraîchir les comptes distants</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="844"/>
         <source>Show Full Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les noms complets</translation>
     </message>
     <message>
         <location filename="../src/ui/SideBar.cpp" line="878"/>
@@ -4341,32 +4341,32 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/StartDialog.cpp" line="395"/>
         <source>Choose Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir un dépôt</translation>
     </message>
     <message>
         <location filename="../src/dialogs/StartDialog.cpp" line="403"/>
         <source>Understand your history!</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprendre votre historique!</translation>
     </message>
     <message>
         <location filename="../src/dialogs/StartDialog.cpp" line="451"/>
         <source>Clone Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloner un dépôt</translation>
     </message>
     <message>
         <location filename="../src/dialogs/StartDialog.cpp" line="462"/>
         <source>Open Existing Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir un dépôt existant</translation>
     </message>
     <message>
         <location filename="../src/dialogs/StartDialog.cpp" line="466"/>
         <source>Open Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir un dépôt</translation>
     </message>
     <message>
         <location filename="../src/dialogs/StartDialog.cpp" line="475"/>
         <source>Initialize New Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialiser un nouveau dépôt</translation>
     </message>
     <message>
         <location filename="../src/dialogs/StartDialog.cpp" line="488"/>
@@ -4494,32 +4494,32 @@ This reverts commit %2.</source>
         <location filename="../src/dialogs/TagDialog.cpp" line="34"/>
         <location filename="../src/dialogs/TagDialog.cpp" line="71"/>
         <source>Create Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un tag</translation>
     </message>
     <message>
         <location filename="../src/dialogs/TagDialog.cpp" line="35"/>
         <source>Add a new tag at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau tag sur %1</translation>
     </message>
     <message>
         <location filename="../src/dialogs/TagDialog.cpp" line="39"/>
         <source>Force (replace existing tag)</source>
-        <translation type="unfinished"></translation>
+        <translation>Forcer (remplace les tags existant)</translation>
     </message>
     <message>
         <location filename="../src/dialogs/TagDialog.cpp" line="42"/>
         <source>Push to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pousser sur %</translation>
     </message>
     <message>
         <location filename="../src/dialogs/TagDialog.cpp" line="46"/>
         <source>Annotated</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotée</translation>
     </message>
     <message>
         <location filename="../src/dialogs/TagDialog.cpp" line="89"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
 </context>
 <context>
@@ -4528,12 +4528,12 @@ This reverts commit %2.</source>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="648"/>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="673"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="661"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="662"/>
@@ -4543,7 +4543,7 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="673"/>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Désinstaller</translation>
     </message>
 </context>
 <context>
@@ -4551,7 +4551,7 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/ThemeDialog.cpp" line="118"/>
         <source>Native Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Thème natif</translation>
     </message>
     <message>
         <location filename="../src/dialogs/ThemeDialog.cpp" line="120"/>
@@ -4561,7 +4561,7 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/ThemeDialog.cpp" line="124"/>
         <source>Dark Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Thème sombre</translation>
     </message>
     <message>
         <location filename="../src/dialogs/ThemeDialog.cpp" line="126"/>
@@ -4574,58 +4574,58 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="749"/>
         <source>Show repository sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la barre latérale des dépôts</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="762"/>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Précédent</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="775"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Suivant</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="792"/>
         <source>Fetch</source>
-        <translation type="unfinished"></translation>
+        <translation>Fetch</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="799"/>
         <source>Pull</source>
-        <translation type="unfinished"></translation>
+        <translation>Pull</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="820"/>
         <source>Push</source>
-        <translation type="unfinished"></translation>
+        <translation>Push</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="828"/>
         <source>Checkout</source>
-        <translation type="unfinished"></translation>
+        <translation>Checkout</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="841"/>
         <source>Stash</source>
-        <translation type="unfinished"></translation>
+        <translation>Stash</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="847"/>
         <source>Pop Stash</source>
-        <translation type="unfinished"></translation>
+        <translation>Pop Stash</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="874"/>
         <source>Configure Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurer les options</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="883"/>
         <location filename="../src/ui/ToolBar.cpp" line="1008"/>
         <source>Show Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les logs</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="896"/>
@@ -4640,12 +4640,12 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="913"/>
         <source>Show Starred Commits</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les commits étoilées</translation>
     </message>
     <message>
         <location filename="../src/ui/ToolBar.cpp" line="1008"/>
         <source>Hide Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher les logs</translation>
     </message>
 </context>
 <context>
@@ -4653,32 +4653,32 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="250"/>
         <source>Keep backup of merge files (.orig)</source>
-        <translation type="unfinished"></translation>
+        <translation>Garder les fichiers de sauvegarde concaténés (.orig)</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="257"/>
         <source>External editor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Editeur externe :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="258"/>
         <source>External diff:</source>
-        <translation type="unfinished"></translation>
+        <translation>Différence externe :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="259"/>
         <source>External merge:</source>
-        <translation type="unfinished"></translation>
+        <translation>Merge externe :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="260"/>
         <source>Backup files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers de sauvegarde :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="281"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurer</translation>
     </message>
 </context>
 <context>
@@ -4686,7 +4686,7 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/ui/TreeModel.cpp" line="151"/>
         <source>Submodule</source>
-        <translation type="unfinished"></translation>
+        <translation>Sous-module</translation>
     </message>
 </context>
 <context>
@@ -4694,12 +4694,12 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/update/UpToDateDialog.cpp" line="21"/>
         <source>Already Up-to-date</source>
-        <translation type="unfinished"></translation>
+        <translation>Déjà à jour.</translation>
     </message>
     <message>
         <location filename="../src/update/UpToDateDialog.cpp" line="32"/>
         <source>%1 is already up-to-date. You have version %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 est déjà à jour. Vous êtes en version %2.</translation>
     </message>
 </context>
 <context>
@@ -4707,7 +4707,7 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/update/UpdateDialog.cpp" line="46"/>
         <source>Update %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Update %1</translation>
     </message>
     <message>
         <location filename="../src/update/UpdateDialog.cpp" line="56"/>
@@ -4717,22 +4717,22 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/update/UpdateDialog.cpp" line="67"/>
         <source>Automatically download and install updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger et installer automatiquement les mises à jour</translation>
     </message>
     <message>
         <location filename="../src/update/UpdateDialog.cpp" line="74"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer les mises à jour</translation>
     </message>
     <message>
         <location filename="../src/update/UpdateDialog.cpp" line="75"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Me le rappeler plus tard</translation>
     </message>
     <message>
         <location filename="../src/update/UpdateDialog.cpp" line="77"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Passer cette version</translation>
     </message>
 </context>
 <context>
@@ -4740,22 +4740,22 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="595"/>
         <source>Check for updates automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérifier les mises à jour automatiquement</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="602"/>
         <source>Automatically download and install updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger et installer les mises à jour automatiquement</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="609"/>
         <source>Check Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Cochez maintenant</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="614"/>
         <source>Software Update:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise a jout logiciel :</translation>
     </message>
 </context>
 <context>
@@ -4763,17 +4763,17 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/UpdateSubmodulesDialog.cpp" line="122"/>
         <source>Recursive</source>
-        <translation type="unfinished"></translation>
+        <translation>Recursif</translation>
     </message>
     <message>
         <location filename="../src/dialogs/UpdateSubmodulesDialog.cpp" line="125"/>
         <source>Init</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialiser</translation>
     </message>
     <message>
         <location filename="../src/dialogs/UpdateSubmodulesDialog.cpp" line="130"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise a jour</translation>
     </message>
 </context>
 <context>
@@ -4781,22 +4781,22 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/update/Updater_win.cpp" line="24"/>
         <source>Installer failed to start</source>
-        <translation type="unfinished"></translation>
+        <translation>L'installeur n'a pas pu démarrer</translation>
     </message>
     <message>
         <location filename="../src/update/Updater_mac.mm" line="77"/>
         <source>The disk image failed to mount successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>L'image disque n'a pas pu être montée</translation>
     </message>
     <message>
         <location filename="../src/update/Updater_mac.mm" line="96"/>
         <source>The existing bundle could not be moved to the trash</source>
-        <translation type="unfinished"></translation>
+        <translation>Le paquet ne peut pas être déplacé vers la corbeille</translation>
     </message>
     <message>
         <location filename="../src/update/Updater_mac.mm" line="108"/>
         <source>The new bundle could not be copied into place</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nouveau paquet ne peut pas être copié à cet endroit</translation>
     </message>
     <message>
         <location filename="../src/update/Updater_mac.mm" line="117"/>
@@ -4807,42 +4807,42 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/update/Updater.cpp" line="99"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour echouée</translation>
     </message>
     <message>
         <location filename="../src/update/Updater.cpp" line="116"/>
         <source>Unable to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de vérifier si des mises à jour sont disponible</translation>
     </message>
     <message>
         <location filename="../src/update/Updater.cpp" line="178"/>
         <source>Unable to download update</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de télécharger les mises à jour</translation>
     </message>
     <message>
         <location filename="../src/update/Updater.cpp" line="181"/>
         <source>Unable to open temporary file</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossbile d'ouvrir le fichier temporaire</translation>
     </message>
     <message>
         <location filename="../src/update/Updater.cpp" line="228"/>
         <source>Unable to install update</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d'installer la mise à jour</translation>
     </message>
     <message>
         <location filename="../src/update/Updater.cpp" line="234"/>
         <source>Some windows failed to close</source>
-        <translation type="unfinished"></translation>
+        <translation>Plusieurs fenêtre ne peuvent pas être fermé</translation>
     </message>
     <message>
         <location filename="../src/update/Updater.cpp" line="239"/>
         <source>Unknown install error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur d'installation inconnu</translation>
     </message>
     <message>
         <location filename="../src/update/Updater.cpp" line="266"/>
         <source>Installer script failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Le script de l'installer a échoué : %1</translation>
     </message>
 </context>
 <context>
@@ -4850,87 +4850,87 @@ This reverts commit %2.</source>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="353"/>
         <source>Add New Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un nouveau thème</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="354"/>
         <source>Edit Current Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le thème courant</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="378"/>
         <source>Create Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un thème</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="387"/>
         <source>Theme Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du thème</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="418"/>
         <source>Restart?</source>
-        <translation type="unfinished"></translation>
+        <translation>Redémarrer?</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="419"/>
         <source>The application must be restarted for the theme change to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'application doit redémarrer pour que les modifications du thème prennent effet.</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="421"/>
         <source>Do you want to restart now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous redémarrer maintenant?</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="423"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Redémarrer</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="424"/>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus tard</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="442"/>
         <source>Show full repository path</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le chemin complet du dépôt</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="448"/>
         <source>Hide automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher automatiquement</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="455"/>
         <source>Open submodules in tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir les sous module dans un onglet</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="461"/>
         <source>Open all repositories in tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir tous les dépôts dans des onglets</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="499"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Theme :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="500"/>
         <source>Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Titre :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="501"/>
         <source>Log:</source>
-        <translation type="unfinished"></translation>
+        <translation>Log :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="502"/>
         <source>Tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Onglet :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/SettingsDialog.cpp" line="504"/>
