@@ -1810,7 +1810,7 @@
     <message>
         <location filename="../src/ui/DiffView.cpp" line="586"/>
         <source>&lt;b&gt;Size:&lt;/b&gt; %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Taille:&lt;/b&gt; %1</translation>
     </message>
 </context>
 <context>
@@ -1921,7 +1921,7 @@ Examples
     <message>
         <location filename="../src/ui/Location.cpp" line="27"/>
         <source>%1 | %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 | %2</translation>
     </message>
     <message>
         <location filename="../src/ui/Location.cpp" line="30"/>
@@ -1931,7 +1931,7 @@ Examples
     <message>
         <location filename="../src/ui/Location.cpp" line="30"/>
         <source>Not Committed</source>
-        <translation type="unfinished"></translation>
+        <translation>Non committé</translation>
     </message>
 </context>
 <context>
@@ -1939,57 +1939,57 @@ Examples
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="115"/>
         <source>Repository Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Localisation du dépôt</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="117"/>
         <source>Choose the name and location of the new repository. A new directory will be created if it doesn&apos;t already exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir le nom et la localisation du nouveau dépôt. Un nouveau dossier sera créé s'il n'existe pas.</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="120"/>
         <source>Initialize</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialiser</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="120"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloner</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="131"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="133"/>
         <source>Choose Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir un dossier</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="156"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="157"/>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="158"/>
         <source>Advanced:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancé :</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="160"/>
         <source>Create a bare repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un dépôt vierge</translation>
     </message>
     <message>
         <location filename="../src/dialogs/CloneDialog.cpp" line="209"/>
         <source>The new repository will be created at:&lt;p style=&apos;text-indent: 12px&apos;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>L</translation>
     </message>
 </context>
 <context>
